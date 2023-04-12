@@ -14,7 +14,7 @@
 
 <div style="float=right;">
   <h4>Stats</h4>
-  <img src="https://github-readme-stats.vercel.app/api?username=junseong0112&theme=graywhite_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Junseong0112&theme=gray&white_icons=true" />
 </div>
 
 <!--
