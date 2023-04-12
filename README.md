@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=FD866E&height=150&section=header&text=🤚🏻%20Draw%20Code%20🖐🏻&fontColor=ffffff&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=soft&color=FD866E&height=100&section=header&text=🤚🏻%20Draw%20Code%20🖐🏻&fontColor=ffffff&fontSize=40)
 
   <div>
     <h4>Tech Stack 🔥</h4>
