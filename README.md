@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=FD866E&height=150&section=header&text=🤚🏻%20Draw%20Code%20🖐🏻&fontColor=ffffff&fontSize=60)
 
-<div style="text-align:center">
   <div>
     <h4>Tech Stack 🔥</h4>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
@@ -17,7 +16,7 @@
     <h4>Stats 🔥</h4>
     <img src="https://github-readme-stats.vercel.app/api?username=Junseong0112&show_icons=true&bg_color=FD866E&title_color=fefefe&text_color=fefefe&icon_color=FFFFFF&border_radius=10" />
   </div>
-</div>
+
 <!--
 **Junseong0112/Junseong0112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
