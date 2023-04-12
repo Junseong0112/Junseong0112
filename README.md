@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=random&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=soft&color=FD866E&height=150&section=header&text=Nice%20Day💪&fontColor=ffffff&fontSize=60)
 
 <h2> Hi 👋 </h2>
 
