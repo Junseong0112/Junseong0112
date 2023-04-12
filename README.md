@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=FD866E&height=150&section=header&text=🤚🏻%20Draw%20Code%20🖐🏻&fontColor=ffffff&fontSize=60)
 
-<div style="display:flex; gap:20px;">
+<div style="display:flex;">
   <div>
     <h4>Tech Stack 🔥</h4>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
