@@ -14,7 +14,7 @@
 
 <div style="float=right;">
   <h4>Stats 🔥</h4>
-  ![Junseong GitHub stats](https://github-readme-stats.vercel.app/api?username=Junseong0112&show_icons=true&bg_color=FD866E)
+  ![Junseong GitHub stats](https://github-readme-stats.vercel.app/api?username=Junseong0112&show_icons=true&bg_color=FD866E&title_color=fefefe&text_color=fefefe&icon_color=FFFFFF&border_radius=10)
 </div>
 
 <!--
