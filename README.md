@@ -15,6 +15,13 @@
   </div>
 
   <div>
+    <h4>Tool 🔥</h4>
+    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  </div>
+
+
+  <div>
     <h4>Stats 🔥</h4>
     <img src="https://github-readme-stats.vercel.app/api?username=Junseong0112&show_icons=true&bg_color=FD866E&title_color=fefefe&text_color=fefefe&icon_color=FFFFFF&border_radius=10" />
   </div>
