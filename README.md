@@ -1,6 +1,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FD866E&height=200&section=header">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=F76B6B&background=FFFFFF00&random=false&width=435&lines=Draw+Coding)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F76B6B&background=FFFFFF00&random=false&width=435&lines=Draw+Coding)](https://git.io/typing-svg)
   
   ## Tech Stack 🤚🏻
   <div>
@@ -40,7 +40,7 @@
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=drawcode0112)](https://velog.io/@drawcode0112)
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FD866E&height=150&section=footer">
-  
+
 <!--
 **Junseong0112/Junseong0112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
