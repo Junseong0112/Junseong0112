@@ -1,8 +1,8 @@
-  <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=FD866E&height=200&section=header"> -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FD866E&height=200&section=header">
 
-  <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F76B6B&background=FFFFFF00&random=false&width=435&lines=Draw+Coding)](https://git.io/typing-svg) -->
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F76B6B&background=FFFFFF00&random=false&width=435&lines=Draw+Coding)](https://git.io/typing-svg)
   
-  ## Skill
+  <!-- ## Skill
   <div>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
     <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
-  </div>
+  </div> -->
 
 
   <!-- ## Stats 💪🏻
